@@ -21,13 +21,142 @@
 # Registers:
 
 # File marks:
-'0  14  25  ~/0-setup_web_static.sh
+'0  34  11  ~/100-clean_web_static.py
+'1  55  11  ~/3-deploy_web_static.py
+'2  29  12  ~/2-do_deploy_web_static.py
+'3  1  0  ~/3-deploy_web_static.py
+'4  28  10  ~/2-do_deploy_web_static.py
+'5  21  18  ~/1-pack_web_static.py
+'6  14  25  ~/0-setup_web_static.sh
 
 # Jumplist (newest first):
+-'  34  11  ~/100-clean_web_static.py
+-'  1  0  ~/100-clean_web_static.py
+-'  55  11  ~/3-deploy_web_static.py
+-'  1  0  ~/3-deploy_web_static.py
+-'  29  12  ~/2-do_deploy_web_static.py
+-'  1  0  ~/2-do_deploy_web_static.py
+-'  28  10  ~/2-do_deploy_web_static.py
+-'  21  18  ~/1-pack_web_static.py
+-'  1  0  ~/1-pack_web_static.py
 -'  14  25  ~/0-setup_web_static.sh
 -'  1  0  ~/0-setup_web_static.sh
+-'  14  25  ~/0-setup_web_static.sh
+-'  1  0  ~/0-setup_web_static.sh
+-'  21  18  ~/1-pack_web_static.py
+-'  1  0  ~/1-pack_web_static.py
+-'  14  25  ~/0-setup_web_static.sh
+-'  1  0  ~/0-setup_web_static.sh
+-'  14  25  ~/0-setup_web_static.sh
+-'  1  0  ~/0-setup_web_static.sh
+-'  21  18  ~/1-pack_web_static.py
+-'  1  0  ~/1-pack_web_static.py
+-'  14  25  ~/0-setup_web_static.sh
+-'  1  0  ~/0-setup_web_static.sh
+-'  14  25  ~/0-setup_web_static.sh
+-'  1  0  ~/0-setup_web_static.sh
+-'  21  18  ~/1-pack_web_static.py
+-'  1  0  ~/1-pack_web_static.py
+-'  14  25  ~/0-setup_web_static.sh
+-'  1  0  ~/0-setup_web_static.sh
+-'  14  25  ~/0-setup_web_static.sh
+-'  1  0  ~/0-setup_web_static.sh
+-'  21  18  ~/1-pack_web_static.py
+-'  1  0  ~/1-pack_web_static.py
+-'  14  25  ~/0-setup_web_static.sh
+-'  1  0  ~/0-setup_web_static.sh
+-'  14  25  ~/0-setup_web_static.sh
+-'  1  0  ~/0-setup_web_static.sh
+-'  21  18  ~/1-pack_web_static.py
+-'  1  0  ~/1-pack_web_static.py
+-'  14  25  ~/0-setup_web_static.sh
+-'  1  0  ~/0-setup_web_static.sh
+-'  14  25  ~/0-setup_web_static.sh
+-'  1  0  ~/0-setup_web_static.sh
+-'  21  18  ~/1-pack_web_static.py
+-'  1  0  ~/1-pack_web_static.py
+-'  14  25  ~/0-setup_web_static.sh
+-'  1  0  ~/0-setup_web_static.sh
+-'  14  25  ~/0-setup_web_static.sh
+-'  1  0  ~/0-setup_web_static.sh
+-'  21  18  ~/1-pack_web_static.py
+-'  1  0  ~/1-pack_web_static.py
+-'  14  25  ~/0-setup_web_static.sh
+-'  1  0  ~/0-setup_web_static.sh
+-'  14  25  ~/0-setup_web_static.sh
+-'  1  0  ~/0-setup_web_static.sh
+-'  29  12  ~/2-do_deploy_web_static.py
+-'  1  0  ~/2-do_deploy_web_static.py
+-'  28  10  ~/2-do_deploy_web_static.py
+-'  21  18  ~/1-pack_web_static.py
+-'  1  0  ~/1-pack_web_static.py
+-'  14  25  ~/0-setup_web_static.sh
+-'  1  0  ~/0-setup_web_static.sh
+-'  14  25  ~/0-setup_web_static.sh
+-'  1  0  ~/0-setup_web_static.sh
+-'  21  18  ~/1-pack_web_static.py
+-'  1  0  ~/1-pack_web_static.py
+-'  14  25  ~/0-setup_web_static.sh
+-'  1  0  ~/0-setup_web_static.sh
+-'  14  25  ~/0-setup_web_static.sh
+-'  1  0  ~/0-setup_web_static.sh
+-'  21  18  ~/1-pack_web_static.py
+-'  1  0  ~/1-pack_web_static.py
+-'  14  25  ~/0-setup_web_static.sh
+-'  1  0  ~/0-setup_web_static.sh
+-'  14  25  ~/0-setup_web_static.sh
+-'  1  0  ~/0-setup_web_static.sh
+-'  21  18  ~/1-pack_web_static.py
+-'  1  0  ~/1-pack_web_static.py
+-'  14  25  ~/0-setup_web_static.sh
+-'  1  0  ~/0-setup_web_static.sh
+-'  14  25  ~/0-setup_web_static.sh
+-'  1  0  ~/0-setup_web_static.sh
+-'  21  18  ~/1-pack_web_static.py
+-'  1  0  ~/1-pack_web_static.py
+-'  14  25  ~/0-setup_web_static.sh
+-'  1  0  ~/0-setup_web_static.sh
+-'  14  25  ~/0-setup_web_static.sh
+-'  1  0  ~/0-setup_web_static.sh
+-'  21  18  ~/1-pack_web_static.py
+-'  1  0  ~/1-pack_web_static.py
+-'  14  25  ~/0-setup_web_static.sh
+-'  1  0  ~/0-setup_web_static.sh
+-'  14  25  ~/0-setup_web_static.sh
+-'  1  0  ~/0-setup_web_static.sh
+-'  21  18  ~/1-pack_web_static.py
+-'  1  0  ~/1-pack_web_static.py
+-'  14  25  ~/0-setup_web_static.sh
+-'  55  11  ~/3-deploy_web_static.py
+-'  1  0  ~/3-deploy_web_static.py
 
 # History of marks within files (newest to oldest):
+
+> ~/100-clean_web_static.py
+	"	34	11
+	^	34	12
+	.	34	0
+	+	34	0
+
+> ~/3-deploy_web_static.py
+	"	55	11
+	^	55	12
+	.	55	12
+	+	1	18
+	+	55	12
+
+> ~/2-do_deploy_web_static.py
+	"	29	12
+	^	29	13
+	.	29	1
+	+	28	11
+	+	29	1
+
+> ~/1-pack_web_static.py
+	"	21	18
+	^	21	19
+	.	21	0
+	+	21	0
 
 > ~/0-setup_web_static.sh
 	"	14	25
